@@ -9,3 +9,4 @@ Check Point 1
   
 check Point 2
   diaplay the input by 4x4 Arduino keyboard library on Seven-segment
+![image](https://user-images.githubusercontent.com/47807136/194036025-f2a94bd5-2620-4b0c-a81e-79d8ef7f9502.png)
